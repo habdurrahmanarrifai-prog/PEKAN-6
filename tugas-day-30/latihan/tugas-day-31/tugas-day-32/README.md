@@ -1,26 +1,12 @@
-# Test Plan: Tugas Day 32
+# tugas-hari-ke-32
 
-Jalankan `tugas_day_32.js` di Console browser atau Node.js. Catat tebakan di komentar sebelum menjalankan setiap potongan.
+**Penulis:** [Hanif Abdurrahman Arrifa'i]
 
-## Langkah 1: Tebak Dulu, Baru Cek
+**Ringkasan Pembelajaran:** Selama pengerjaan proyek ini, saya mempelajari cara menggunakan *array* dan fungsi dalam JavaScript secara efektif untuk mengelola data serta melakukan perhitungan, khususnya dalam konteks program mesin kasir.
 
-### Potongan A — Array methods
+**Hal yang Masih Membingungkan:** Saya masih belum sepenuhnya memahami praktik terbaik (*best practices*) untuk penanganan *error* dalam fungsi JavaScript, terutama saat berhadapan dengan input pengguna maupun nilai-nilai yang tidak terduga.
 
-Hasil yang diharapkan, berurutan:
 
-```text
-Jus
-Air
-[ 'Kopi', 'Roti', 'Susu' ]
-[ 'Roti', 'Susu' ]
-2
--1
-true
-Susu
 
-5
-5
-undefined
 
-Langkah 2: Perbaiki 7 Kesalahan
-Setelah diperbaiki, hasil yang diharapkan:
+
